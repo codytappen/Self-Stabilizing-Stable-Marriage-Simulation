@@ -1,7 +1,7 @@
 # Self-Stabilizing-Stable-Marriage-Simulation
 The simulation code for the distributed stable marriage algorithm I developed during study abroad.
 
-To run the test code, import src into any Java IDE and run SimuClass.java.
+To run the test code, open DistributedStableMarriageSimulation in any post 2018 version of Eclipse and run SimuClass.java.
 Promts will explain the rest.
 
 For explanatory pseudocode of the real distributed version check out Pseudo-Code.pdf
