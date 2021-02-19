@@ -1,10 +1,10 @@
 # Self-Stabilizing-Stable-Marriage-Simulation
 The simulation code for the distributed stable marriage algorithm I developed during study abroad.
 
-To run the test code, open DistributedStableMarriageSimulation in any post 2018 version of Eclipse and run SimuClass.java.
+To run the test code, open DistributedStableMarriageSimulation in Eclipse 2019 or later and run SimuClass.java.
 Promts will explain the rest.
 
-For explanatory pseudocode of the real distributed version check out Pseudo-Code.pdf
+For explanatory pseudocode of the real distributed version check out Pseudo-Code.pdf.
 For proof of the algorithm's complexity and completeness check out part four of Uncoordinated Two-Sided Matching Markets.pdf
 
 For note, the pseudoCode and simulation were written by Chris Sisemore, the paper was not.
